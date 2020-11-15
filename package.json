@@ -1,0 +1,29 @@
+{
+  "name": "happy-bird-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "config": "^3.3.2",
+    "express": "^4.17.1",
+    "express-validator": "^6.6.1",
+    "mongoose": "^5.10.11",
+    "nodemon": "^2.0.6"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomarviii88/Mental-heath-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tomarviii88/Mental-heath-backend/issues"
+  },
+  "homepage": "https://github.com/tomarviii88/Mental-heath-backend#readme"
+}

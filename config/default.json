@@ -1,0 +1,4 @@
+{
+  "mongoDB": "mongodb+srv://tomarviii88:69vDbIxv9ZHYYD9e@mental-health-cluster.4s2yl.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "mentalSecret"
+}
